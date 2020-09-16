@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Deveeshree Nayak](mailto:deveeshree.nayak@owasp.org)
+* [Dr. Yan Bai](mailto:yan.bai@owasp.org)
