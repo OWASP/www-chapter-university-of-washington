@@ -1,8 +1,5 @@
 ---
-
-layout: col-sidebar
-title: OWASP University of Washington-Student Chapter
-tags: example-tag
+Chapter: University of Washington-Student Chapter
 region: North America
 
 ---
