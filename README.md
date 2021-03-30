@@ -4,6 +4,7 @@ Chapter: OWASP University of Washington-Student Chapter
 Region: North America
 City: Seattle
 Chapter Leaders: Deveeshree Nayak & Dr. Yan Bai 
+
 ---
 
 ## About OWASP UW Chapter 
