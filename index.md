@@ -1,9 +1,4 @@
 # OWASP-University-of-Washington-Student-Chapter
-| Chapter | OWASP University of Washington-Student Chapter|
-| --- | --- |
-| Region | North America |
-| City | Seattle|
-| Chapter Leaders | Deveeshree Nayak & Dr. Yan Bai |
 
 ## About the Chapter 
 Welcome to the OWASP Chapter of the University of Washingtton (UW). The UW is one of the world’s preeminent public universities. Our impact on individuals, our region and the world is profound — whether we are launching young people into a boundless future or confronting the grand challenges of our time through undaunted research and scholarship. Ranked No. 14 in the world on the 2018 Academic Ranking of World Universities, the UW educates more than 54,000 students annually. We turn ideas into impact and transform lives and our world. This chapter covers all campuses of UW that are UW Seattle, UW Bothel and UW Tacoma. 
