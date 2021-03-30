@@ -1,7 +1,5 @@
-### University of Washington Information
-* Provide Group Information
 
 ### Social Links
-* [Meetup](#)
+* * [Meetup Group](https://www.meetup.com/owasp-university-of-washington-meetup-group/)
 
 
