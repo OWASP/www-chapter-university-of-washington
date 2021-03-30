@@ -12,7 +12,7 @@ We organise Meetups, conferences, webinars, Penals and Speaker series. All these
 ## Future Meetings 
 
 UW OWASP Chapter meetings are posted on our meetup!
-https://www.meetup.com/owasp-university-of-washington-meetup-group/
+[Meetup Group](https://www.meetup.com/owasp-university-of-washington-meetup-group/)
 
 ## Benefits of Attending Meetings
  + Information Security Knowledge sharing
