@@ -1,9 +1,8 @@
-**OWASP-University-of-Washington-Student-Chapter**
-
 ---
 
-layout: col-sidebar
-title: An example subdir
+Chapter: OWASP University of Washington Student Chapter
+Region: North America
+City: Seattle 
 
 ---
 
