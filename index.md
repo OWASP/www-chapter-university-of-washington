@@ -22,6 +22,7 @@ UW OWASP Chapter meetings are posted on our meetup!
 If you like to speak on our upcoming events, please review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and kindly email us [Deveeshree Nayak](mailto://deveeshree.nayak@owasp.org) & [Dr. Yan Bai](mailto://yanb@uw.edu)
 
 <br>
+
 ## Email Format 
  
   + Speaker name
@@ -36,6 +37,7 @@ If you like to speak on our upcoming events, please review the [speaker agreemen
   + Abstract of the presentation
   + Presentation time required
 <br>
+
 ## Membership 
 + We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 + Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). 
