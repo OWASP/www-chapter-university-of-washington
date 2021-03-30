@@ -1,14 +1,5 @@
 **OWASP-University-of-Washington-Student-Chapter**
 
----
-
-layout:col-sidebar
-title:OWASP-University-of-Washington-Student-Chapter
-Region: North America
-City: Seattle 
-
----
-
 
 **About the Chapter**
 
