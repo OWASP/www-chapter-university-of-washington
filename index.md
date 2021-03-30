@@ -21,7 +21,7 @@ https://www.meetup.com/owasp-university-of-washington-meetup-group/
  + Personal and Professional Growth
 
 ## Speakers:
-If you like to speak on our upcoming events, please review the [speaker agreement](/www-policy/speaker-agreement) and kindly email us [Deveeshree Nayak](mailto://deveeshree.nayak@owasp.org) & [Dr. Yan Bai](mailto://yanb@uw.edu)
+If you like to speak on our upcoming events, please review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and kindly email us [Deveeshree Nayak](mailto://deveeshree.nayak@owasp.org) & [Dr. Yan Bai](mailto://yanb@uw.edu)
 
 
 ## Email Format 
