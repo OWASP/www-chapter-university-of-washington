@@ -1,70 +1,47 @@
 ---
-Chapter: University of Washington-Student Chapter
-region: North America
+Chapter: OWASP University of Washington-Student Chapter
+Region: North America
+City: Seattle
+Chapter Leaders: Deveeshree Nayak & Dr. Yan Bai 
 
 ---
 
-<div style='color:red;'>
+## About OWASP UW Chapter 
+Welcome to the OWASP Chapter of the University of Washingtton (UW). The UW is one of the world’s preeminent public universities. Our impact on individuals, our region and the world is profound — whether we are launching young people into a boundless future or confronting the grand challenges of our time through undaunted research and scholarship. Ranked No. 14 in the world on the 2018 Academic Ranking of World Universities, the UW educates more than 54,000 students annually. We turn ideas into impact and transform lives and our world. This chapter covers all campuses of UW that are UW Seattle, UW Bothel and UW Tacoma. 
+We organise Meetups, conferences, webinars, Penals and Speaker series. All these events are open to anyone who is interested in learning about Cyber Security and Secure Application Development. Join our mission to make this world a Cyber Safe World!  
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## Future Meetings 
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+UW OWASP Chapter meetings are posted on our meetup!
+https://www.meetup.com/owasp-university-of-washington-meetup-group/
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+## Benefits of Attending OWASP UW Chapter Meeting
+ + Information Security Knowledge sharing
+ + Networking
+ + Personal and Professional Growth
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+## Speakers:
+If you like to speak on our upcoming events, please review the [speaker agreement](/www-policy/speaker-agreement) and kindly email us [Deveeshree Nayak](mailto://deveeshree.nayak@owasp.org) & [Dr. Yan Bai](mailto://yanb@uw.edu)
 
-region: This is the region you are in according to our data
 
-</div>
+## Email Format 
+ 
+  + Speaker name
+  + Job Role
+  + Company / Organization
+  + Country
+  + Email ID
+  + Contact Number
+  + Speaker Profile
+  + Presentation Details
+  + Name / Title of the Presentation
+  + Abstract of the presentation
+  + Presentation time required
 
-## Welcome
-Include some information here about your chapter
+## Membership 
++ We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
++ Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). 
++ We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
-
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
