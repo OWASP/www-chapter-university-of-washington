@@ -6,12 +6,18 @@ We organise Meetups, conferences, webinars, Penals and Speaker series. All these
 
 **Future Meetings:** UW OWASP Chapter meetings are posted on our meetup! [Meetup Group](https://www.meetup.com/owasp-university-of-washington-meetup-group/)
 
-<br>
-**Benefits of Attending Meetings** + Information Security Knowledge sharing + Networking + Personal and Professional Growth 
 
-**Speakers:** If you like to speak on our upcoming events, please review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and kindly email us [Deveeshree Nayak](mailto://deveeshree.nayak@owasp.org) & [Dr. Yan Bai](mailto://yanb@uw.edu)
+**Benefits of Attending Meetings** 
++ Information Security Knowledge sharing
++ Networking
++ Personal and Professional Growth 
+
+**Speakers:** 
+
+If you like to speak on our upcoming events, please review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and kindly email us [Deveeshree Nayak](mailto://deveeshree.nayak@owasp.org) & [Dr. Yan Bai](mailto://yanb@uw.edu)
 
 **Email Format**
+
   + Speaker name
   + Job Role
   + Company / Organization
