@@ -8,7 +8,7 @@ region: North America
 altfooter: true
 meetup-group: owasp-university-of-washington-meetup-group
 country: USA
-postal-code: 98185
+postal-code: 98195
 
 ---
 
