@@ -1,8 +1,14 @@
 ---
 
-Chapter: OWASP University of Washington Student Chapter
-Region: North America
-City: Seattle 
+layout: col-sidebar
+title: OWASP University of Washington
+tags: Seattle
+
+region: North America
+altfooter: true
+meetup-group: owasp-university-of-washington-meetup-group
+country: USA
+postal-code: 98185
 
 ---
 
