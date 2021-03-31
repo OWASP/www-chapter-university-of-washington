@@ -1,4 +1,4 @@
-# OWASP-University-of-Washington-Student-Chapter
+# OWASP University of Washington
 | Chapter | OWASP University of Washington-Student Chapter|
 | --- | --- |
 | Region | North America |
