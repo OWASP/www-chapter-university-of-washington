@@ -21,6 +21,18 @@ We organise Meetups, conferences, webinars, Penals and Speaker series. All these
 ## Future Meetings 
 
 UW OWASP Chapter meetings are posted on our meetup! [Meetup Group](https://www.meetup.com/owasp-university-of-washington-meetup-group/)
+Speaker: Otha Mabry, a Security professional
+Date & Time: May 25th 2021, 5PM-6:30PM
+Type: Virtual 
+Link: https://www.meetup.com/owasp-university-of-washington-meetup-group/
+Topic: How to make 100K + in Cyber Security
+
+## Past Meetings 
+
+Speaker: Mrs. Marcae Bryant-Omosor, CEO of Cyber Bytzs Execs
+Date & Time: April 13th 2021, 5PM-6:30PM
+Type: Virtual 
+Topic: OWASP Top 10 Web Application Security Risks
 
 ## Benefits of Attending Meetings
 + Information Security Knowledge sharing
