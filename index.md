@@ -22,6 +22,11 @@ We organise Meetups, conferences, webinars, Penals and Speaker series. All these
 
 UW OWASP Chapter meetings are posted on our meetup! [Meetup Group](https://www.meetup.com/owasp-university-of-washington-meetup-group/)
 
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
+
 ## Benefits of Attending Meetings
 + Information Security Knowledge sharing
 + Networking
